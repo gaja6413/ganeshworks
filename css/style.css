@@ -1,0 +1,44 @@
+.heading3{
+  text-align:center;
+
+  margin-top:0px;
+  font-size:40px;
+  
+}
+.heading2{
+  text-align:center;
+    
+    font-family: 'Montserrat', sans-serif;
+  font-size:60px;
+  color:#F44336;
+  
+}
+img{
+  }
+body{ 
+background-image:url("dark_tint.png"),url("https://c.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2015/10/3052889-poster-p-2-the-issue-with-existing-batteries-is-that-they-suck.jpg");
+  
+   background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+}
+li
+{
+  
+    font-size: 17px;
+    line-height: 27px;
+    font-weight: 400;
+    font-family: 'Raleway', sans-serif;
+    color:#fff;
+    padding: 10px;
+}
+footer
+{
+  text-align:center;
+  color:white;
+}
+a{
+  text-decoration:none;
+}
+a:link
+{color:#7477B9;}
